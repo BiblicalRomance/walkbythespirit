@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://walkbythespirit.org/"
+baseurl = "http://walkbythespirit.org/"
 themesDir = "themes"
 languageCode = "en-us"
 title = "Walk by the Spirit"
