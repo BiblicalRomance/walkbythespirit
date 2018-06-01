@@ -8,6 +8,8 @@ theme = "cactus"
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
 disqusShortname = "spf13"
+# github pages looks here
+publishDir = "docs"
 
 [params]
 	name = "Walk by the Spirit"
