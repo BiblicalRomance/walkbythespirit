@@ -5,9 +5,9 @@ languageCode = "en-us"
 title = "Walk by the Spirit"
 theme = "cactus"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-97617096-1"
 # Disable comments by leaving disqusShortname empty
-disqusShortname = "spf13"
+disqusShortname = "walkbythespirit"
 # github pages looks here
 publishDir = "docs"
 
@@ -51,7 +51,7 @@ publishDir = "docs"
 # Add additional social link entries underneath
 [social]
     # twitter  = "https://www.twitter.com/"
-    youtube = "https://www.youtube.com/"
+    youtube = "https://www.youtube.com/watch?v=Z98Nkva1OW8"
     facebook = "https://www.facebook.com/"
     # github   = "https://www.github.com/"
     # dribble  = "https://www.dribbble.com/"
