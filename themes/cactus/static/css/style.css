@@ -189,7 +189,8 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul, ol 	{ margin:0; padding:0; margin-bottom: 20px; }
+ul, ol 	{ margin: 0 0 0 2em; padding:0; margin-bottom: 20px; }
+ul ul { margin: 0 0 0 2em; }
 ul { list-style-type:circle; }
 ol { list-style: decimal; }
 li	{  list-style-position:inside; }
@@ -295,8 +296,21 @@ p.small {
 }
 
 blockquote {
-	padding-left: 15px;
+	/* padding-left: 15px;
+	border-left: 3px solid #ddd;
+	color: #933;
+	color: #777;
+	*/
 	border-left: 3px solid #eee;
+	border-radius: 4px;
+	background: #f8f8f8;
+	padding: 1em;
+	margin-bottom: 1em;
+}
+
+blockquote p:last-child {
+	/* padding-bottom: 0; */
+	margin-bottom: 0;
 }
 
 hr {
