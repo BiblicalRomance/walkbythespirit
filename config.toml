@@ -16,7 +16,7 @@ publishDir = "docs"
 	description = "Real Christianity is a personal relationship with God."
 	bio = "Real Christianity is a personal relationship with God."
 	# Enter optionally your twitter account
-	twitter = "WalkByHisSpirit"
+	# twitter = "WalkByHisSpirit"
 	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by

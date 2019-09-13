@@ -3,6 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://walkbythespirit.org/post/judging-others/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/post/love-is/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/post/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/judgement/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/love/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/post/my-favorite-teachers/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/teachers/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://walkbythespirit.org/post/promised-land/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -28,29 +79,18 @@
   </url>
   
   <url>
+    <loc>http://walkbythespirit.org/tags/holy-spirit/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://walkbythespirit.org/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://walkbythespirit.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://walkbythespirit.org/post/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://walkbythespirit.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://walkbythespirit.org/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
