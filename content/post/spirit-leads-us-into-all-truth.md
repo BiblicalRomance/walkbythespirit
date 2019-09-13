@@ -1,6 +1,8 @@
 ---
 date: 2018-06-01
 title: The Spirit Leads Us Into All Truth
+tags:
+ - holy spirit
 ---
 
 Every prophet in the Old and New Testament, every new truth and turn of the church (from salvation for the gentiles to the missionary journeys), and every important thing period in the bible started with God’s word and leading.
