@@ -1,6 +1,6 @@
 ---
 title: Faith step 2
-date: 2910-11-24
+date: 2019-11-24
 ---
 
 God has saved us from fear and called us to walk in Faith. However, once you exercise your faith and receive the promise, the test starts over again. Faith for something requires new faith once you have obtained to continue moving forward. God is a relational God - not a prize/checklist God.
