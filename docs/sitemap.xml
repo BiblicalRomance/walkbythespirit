@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://walkbythespirit.org/post/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/post/train-up-an-employee/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/kids/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/training/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://walkbythespirit.org/post/judging-others/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url>
@@ -10,24 +45,6 @@
   <url>
     <loc>http://walkbythespirit.org/post/love-is/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://walkbythespirit.org/post/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://walkbythespirit.org/tags/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://walkbythespirit.org/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -87,6 +104,11 @@
   <url>
     <loc>http://walkbythespirit.org/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/post/love-our-sin/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
