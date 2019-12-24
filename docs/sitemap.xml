@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,19 +10,21 @@
   <url>
     <loc>http://walkbythespirit.org/post/</loc>
     <lastmod>2019-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://walkbythespirit.org/</loc>
     <lastmod>2019-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/kids/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://walkbythespirit.org/tags/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -31,15 +33,13 @@
   </url>
   
   <url>
-    <loc>http://walkbythespirit.org/tags/kids/</loc>
+    <loc>http://walkbythespirit.org/tags/training/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://walkbythespirit.org/tags/training/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://walkbythespirit.org/tags/judgement/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,20 +48,13 @@
   </url>
   
   <url>
-    <loc>http://walkbythespirit.org/post/love-is/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://walkbythespirit.org/tags/judgement/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://walkbythespirit.org/tags/love/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/post/love-is/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -72,11 +65,15 @@
   <url>
     <loc>http://walkbythespirit.org/tags/teachers/</loc>
     <lastmod>2019-08-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://walkbythespirit.org/post/promised-land/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/tags/holy-spirit/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -101,24 +98,24 @@
   </url>
   
   <url>
-    <loc>http://walkbythespirit.org/tags/holy-spirit/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://walkbythespirit.org/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://walkbythespirit.org/post/love-our-sin/</loc>
-    <priority>0</priority>
+    <loc>http://walkbythespirit.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://walkbythespirit.org/categories/</loc>
-    <priority>0</priority>
+    <loc>http://walkbythespirit.org/post/looking-forward-to/</loc>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/post/blessed-life/</loc>
+  </url>
+  
+  <url>
+    <loc>http://walkbythespirit.org/post/love-our-sin/</loc>
   </url>
   
 </urlset>
